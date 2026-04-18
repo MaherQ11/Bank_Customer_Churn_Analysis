@@ -1,7 +1,7 @@
 # Bank Customer Churn Analysis 
 
 ## Live Dashboard
-[View Interactive Dashboard](https://maherq11.github.io/Bank_Customer_Churn_Analysis/Live_Dashboard)
+[View Interactive Dashboard](https://maherq11.github.io/Bank_Customer_Churn_Analysis/)
 
 ## Dashboard Preview
 ![Bank Customer Churn Dashboard](BankDashBoard.png)
